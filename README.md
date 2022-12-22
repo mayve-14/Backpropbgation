@@ -1,1 +1,1 @@
-# Backpropbgation
+implementing backprobgation from scratch
